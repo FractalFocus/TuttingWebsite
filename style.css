@@ -53,6 +53,10 @@ ol{
   text-align: left;
 }
 
+h1{
+  text-decoration: underline;
+}
+
 
 
 
@@ -106,4 +110,8 @@ html {
   html {
     font-size: 18px;
   }
+}
+
+.demos{
+  text-align: center;
 }
